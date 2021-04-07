@@ -1,0 +1,2 @@
+Write a program in Python that asks the user to enter a string s and return a message indicating whether the string contains the letter a by indicating its position on the string. Example if the user types the string s = language the program returns: The letter a is in position: 1 The letter a is in position: 5
+
